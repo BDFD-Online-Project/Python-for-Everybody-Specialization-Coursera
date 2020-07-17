@@ -4,5 +4,5 @@ In the capstone, students will build a series of applications to retrieve, proce
 ## Link:
 https://www.coursera.org/learn/python-data-visualization
 
-## Certificate of Completion (WITH HONOURS):
+## Certificate of Completion (WITH HONORS):
 ![Course-5](Course%205_Completion%20Certificate.PNG)
